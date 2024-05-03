@@ -2,3 +2,7 @@ this is chat application
 Type option
 colors
 dark mode
+hello model
+scss
+ts
+anything
